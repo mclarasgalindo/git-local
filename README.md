@@ -206,7 +206,9 @@ git show HEAD
 
 ---
 
-## 💡 16. Exemplo de fluxo completo
+## 18.
+
+## 💡 17. Exemplo de fluxo completo
 
 ```bash
 git init
